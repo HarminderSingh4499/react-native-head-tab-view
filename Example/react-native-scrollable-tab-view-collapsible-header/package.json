@@ -28,5 +28,8 @@
   "peerDependencies": {
     "react-native-head-tab-view": "^4.0.0"
   },
-  "description": "Extend react-native-scrollable-tab-view to have shared collapsible headers"
+  "description": "Extend react-native-scrollable-tab-view to have shared collapsible headers",
+  "dependencies": {
+    "react-native-scrollable-tab-view": "^1.0.0"
+  }
 }
